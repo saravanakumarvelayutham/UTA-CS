@@ -1,6 +1,6 @@
 {
   "name": "Self-Assistant",
   "description": "Self-Hosted scheduling Assistant",
-  "repository": "https://github.com/saravanakumarvelayutham/UTA-CS/tree/master/HCI-CSE6369-Fall19/sourceCode",
+  "repository": "https://github.com/saravanakumarvelayutham/UTA-CS/tree/master/Fall19/CSE6369-HCI/source",
   "success_url": "/assistant"
 }
